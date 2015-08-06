@@ -1,0 +1,3 @@
+# spring-mybatis
+这个项目是将spring和mybatis整合在一起的小demo
+数据库为oracle
